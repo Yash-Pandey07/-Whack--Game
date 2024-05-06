@@ -25,4 +25,4 @@ Whack-a-Mole is a classic arcade game where the player has to hit appearing mole
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/whack-a-mole.git
+git clone https://github.com/Yash-Pandey07/-Whack--Game
