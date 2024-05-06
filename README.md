@@ -7,6 +7,8 @@ This is a simple Whack-a-Mole game implemented using HTML, CSS, and JavaScript.
 
 Whack-a-Mole is a classic arcade game where the player has to hit appearing moles with a hammer before they disappear. The goal is to score as many points as possible within the time limit by hitting the moles while avoiding hitting other objects.
 
+Run Online: [Whack-a-Mole Game](https://yash-pandey07.github.io/-Whack--Game/)
+
 ## Features
 
 - Click to whack moles as they appear on the game board.
@@ -27,6 +29,3 @@ Whack-a-Mole is a classic arcade game where the player has to hit appearing mole
 ```bash
 git clone https://github.com/Yash-Pandey07/-Whack--Game
 
-2. RUN Online:
-
-https://yash-pandey07.github.io/-Whack--Game/
